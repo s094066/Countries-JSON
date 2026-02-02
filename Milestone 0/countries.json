@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "country_code": "BE",
+    "name": "Belgium",
+    "capital": "Brussels",
+    "population": 11589623,
+    "is_active_member": true,
+    "independence_date": "1830-10-04",
+    "flag": ,
+    "region": "Europe",
+    "languages": ["Dutch", "French", "German"],
+    "currency": {
+      "id": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  },
+  {
+    "id": 2,
+    "country_code": "JP",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 125700000,
+    "is_active_member": true,
+    "independence_date": "1947-05-03",
+    "flag": ,
+    "region": "Asia",
+    "languages": ["Japanese"],
+    "currency": {
+      "id": "JPY",
+      "name": "Japanese Yen",
+      "symbol": "¥"
+    }
+  },
+  {
+    "id": 3,
+    "country_code": "CA",
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": 38246108,
+    "is_active_member": true,
+    "independence_date": "1867-07-01",
+    "flag": ,
+    "region": "Americas",
+    "languages": ["English", "French"],
+    "currency": {
+      "id": "CAD",
+      "name": "Canadian Dollar",
+      "symbol": "$"
+    }
+  },
+  {
+    "id": 4,
+    "country_code": "AU",
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": 25739256,
+    "is_active_member": true,
+    "independence_date": "1901-01-01",
+    "flag": ,
+    "region": "Oceania",
+    "languages": ["English"],
+    "currency": {
+      "id": "AUD",
+      "name": "Australian Dollar",
+      "symbol": "$"
+    }
+  },
+  {
+    "id": 5,
+    "country_code": "BR",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": 214300000,
+    "is_active_member": true,
+    "independence_date": "1822-09-07",
+    "flag": ,
+    "region": "Americas",
+    "languages": ["Portuguese"],
+    "currency": {
+      "id": "BRL",
+      "name": "Brazilian Real",
+      "symbol": "R$"
+    }
+  },
+  {
+    "id": 6,
+    "country_code": "CH",
+    "name": "Switzerland",
+    "capital": "Bern",
+    "population": 8703000,
+    "is_active_member": false,
+    "independence_date": "1291-08-01",
+    "flag": ,
+    "region": "Europe",
+    "languages": ["German", "French", "Italian", "Romansh"],
+    "currency": {
+      "id": "CHF",
+      "name": "Swiss Franc",
+      "symbol": "CHF"
+    }
+  },
+  {
+    "id": 7,
+    "country_code": "ZA",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "population": 60042000,
+    "is_active_member": true,
+    "independence_date": "1910-05-31",
+    "flag": ,
+    "region": "Africa",
+    "languages": ["Zulu", "Xhosa", "Afrikaans", "English"],
+    "currency": {
+      "id": "ZAR",
+      "name": "South African Rand",
+      "symbol": "R"
+    }
+  },
+  {
+    "id": 8,
+    "country_code": "NO",
+    "name": "Norway",
+    "capital": "Oslo",
+    "population": 5408000,
+    "is_active_member": true,
+    "independence_date": "1905-06-07",
+    "flag": ,
+    "region": "Europe",
+    "languages": ["Norwegian", "Sami"],
+    "currency": {
+      "id": "NOK",
+      "name": "Norwegian Krone",
+      "symbol": "kr"
+    }
+  },
+  {
+    "id": 9,
+    "country_code": "KE",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "population": 54985698,
+    "is_active_member": true,
+    "independence_date": "1963-12-12",
+    "flag": ,
+    "region": "Africa",
+    "languages": ["Swahili", "English"],
+    "currency": {
+      "id": "KES",
+      "name": "Kenyan Shilling",
+      "symbol": "KSh"
+    }
+  },
+  {
+    "id": 10,
+    "country_code": "IS",
+    "name": "Iceland",
+    "capital": "Reykjavík",
+    "population": 372295,
+    "is_active_member": true,
+    "independence_date": "1944-06-17",
+    "flag": ,
+    "region": "Europe",
+    "languages": ["Icelandic"],
+    "currency": {
+      "id": "ISK",
+      "name": "Icelandic Króna",
+      "symbol": "kr"
+    }
+  }
+]
