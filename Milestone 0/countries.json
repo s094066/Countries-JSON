@@ -58,7 +58,7 @@
     "population": 25739256,
     "is_active_member": true,
     "independence_date": "1901-01-01",
-    "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/blob/97b3a50df068498dc4520f619e10aebef963ab71/Milestone%200/assets/au.png",
+    "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/au.png",
     "region": "Oceania",
     "languages": ["English"],
     "currency": {
@@ -171,3 +171,4 @@
   }
 
 ]
+
