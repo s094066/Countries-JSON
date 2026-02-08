@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Euro",
+    "symbol": "€"
+  },
+  {
+    "id": 2,
+    "name": "Japanese Yen",
+    "symbol": "¥"
+  },
+  {
+    "id": 3,
+    "name": "Canadian Dollar",
+    "symbol": "$"
+  },
+  {
+    "id": 4,
+    "name": "Australian Dollar",
+    "symbol": "$"
+  },
+  {
+    "id": 5,
+    "name": "Brazilian Real",
+    "symbol": "R$"
+  },
+  {
+    "id": 6,
+    "name": "Swiss Franc",
+    "symbol": "CHF"
+  },
+  {
+    "id": 7,
+    "name": "South African Rand",
+    "symbol": "R"
+  },
+  {
+    "id": 8,
+    "name": "Norwegian Krone",
+    "symbol": "kr"
+  },
+  {
+    "id": 9,
+    "name": "Kenyan Shilling",
+    "symbol": "KSh"
+  },
+  {
+    "id": 10,
+    "name": "Icelandic Króna",
+    "symbol": "kr"
+  }
+]

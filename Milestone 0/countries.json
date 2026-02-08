@@ -9,12 +9,7 @@
     "independence_date": "1830-10-04",
     "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/be.png",
     "region": "Europe",
-    "languages": ["Dutch", "French", "German"],
-    "currency": {
-      "id": "EUR",
-      "name": "Euro",
-      "symbol": "€"
-    }
+    "languages": ["Dutch", "French", "German"]
   },
   {
     "id": 2,
@@ -26,12 +21,7 @@
     "independence_date": "1947-05-03",
     "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/jp.png",
     "region": "Asia",
-    "languages": ["Japanese"],
-    "currency": {
-      "id": "JPY",
-      "name": "Japanese Yen",
-      "symbol": "¥"
-    }
+    "languages": ["Japanese"]
   },
   {
     "id": 3,
@@ -43,12 +33,7 @@
     "independence_date": "1867-07-01",
     "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/ca.png",
     "region": "Americas",
-    "languages": ["English", "French"],
-    "currency": {
-      "id": "CAD",
-      "name": "Canadian Dollar",
-      "symbol": "$"
-    }
+    "languages": ["English", "French"]
   },
   {
     "id": 4,
@@ -60,12 +45,7 @@
     "independence_date": "1901-01-01",
     "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/au.png",
     "region": "Oceania",
-    "languages": ["English"],
-    "currency": {
-      "id": "AUD",
-      "name": "Australian Dollar",
-      "symbol": "$"
-    }
+    "languages": ["English"]
   },
   {
     "id": 5,
@@ -77,12 +57,7 @@
     "independence_date": "1822-09-07",
     "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/br.png",
     "region": "Americas",
-    "languages": ["Portuguese"],
-    "currency": {
-      "id": "BRL",
-      "name": "Brazilian Real",
-      "symbol": "R$"
-    }
+    "languages": ["Portuguese"]
   },
   {
     "id": 6,
@@ -94,12 +69,7 @@
     "independence_date": "1291-08-01",
     "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/ch.png",
     "region": "Europe",
-    "languages": ["German", "French", "Italian", "Romansh"],
-    "currency": {
-      "id": "CHF",
-      "name": "Swiss Franc",
-      "symbol": "CHF"
-    }
+    "languages": ["German", "French", "Italian", "Romansh"]
   },
   {
     "id": 7,
@@ -111,12 +81,7 @@
     "independence_date": "1910-05-31",
     "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/za.png",
     "region": "Africa",
-    "languages": ["Zulu", "Xhosa", "Afrikaans", "English"],
-    "currency": {
-      "id": "ZAR",
-      "name": "South African Rand",
-      "symbol": "R"
-    }
+    "languages": ["Zulu", "Xhosa", "Afrikaans", "English"]
   },
   {
     "id": 8,
@@ -128,12 +93,7 @@
     "independence_date": "1905-06-07",
     "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/no.png",
     "region": "Europe",
-    "languages": ["Norwegian", "Sami"],
-    "currency": {
-      "id": "NOK",
-      "name": "Norwegian Krone",
-      "symbol": "kr"
-    }
+    "languages": ["Norwegian", "Sami"]
   },
   {
     "id": 9,
@@ -145,12 +105,7 @@
     "independence_date": "1963-12-12",
     "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/ke.png",
     "region": "Africa",
-    "languages": ["Swahili", "English"],
-    "currency": {
-      "id": "KES",
-      "name": "Kenyan Shilling",
-      "symbol": "KSh"
-    }
+    "languages": ["Swahili", "English"]
   },
   {
     "id": 10,
@@ -162,12 +117,7 @@
     "independence_date": "1944-06-17",
     "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/is.png",
     "region": "Europe",
-    "languages": ["Icelandic"],
-    "currency": {
-      "id": "ISK",
-      "name": "Icelandic Króna",
-      "symbol": "kr"
-    }
+    "languages": ["Icelandic"]
   }
 
 ]
