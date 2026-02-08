@@ -7,7 +7,7 @@
     "population": 11589623,
     "is_active_member": true,
     "independence_date": "1830-10-04",
-    "flag": ,
+    "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/be.png",
     "region": "Europe",
     "languages": ["Dutch", "French", "German"],
     "currency": {
@@ -24,7 +24,7 @@
     "population": 125700000,
     "is_active_member": true,
     "independence_date": "1947-05-03",
-    "flag": ,
+    "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/jp.png",
     "region": "Asia",
     "languages": ["Japanese"],
     "currency": {
@@ -41,7 +41,7 @@
     "population": 38246108,
     "is_active_member": true,
     "independence_date": "1867-07-01",
-    "flag": ,
+    "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/ca.png",
     "region": "Americas",
     "languages": ["English", "French"],
     "currency": {
@@ -75,7 +75,7 @@
     "population": 214300000,
     "is_active_member": true,
     "independence_date": "1822-09-07",
-    "flag": ,
+    "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/br.png",
     "region": "Americas",
     "languages": ["Portuguese"],
     "currency": {
@@ -92,7 +92,7 @@
     "population": 8703000,
     "is_active_member": false,
     "independence_date": "1291-08-01",
-    "flag": ,
+    "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/ch.png",
     "region": "Europe",
     "languages": ["German", "French", "Italian", "Romansh"],
     "currency": {
@@ -109,7 +109,7 @@
     "population": 60042000,
     "is_active_member": true,
     "independence_date": "1910-05-31",
-    "flag": ,
+    "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/za.png",
     "region": "Africa",
     "languages": ["Zulu", "Xhosa", "Afrikaans", "English"],
     "currency": {
@@ -126,7 +126,7 @@
     "population": 5408000,
     "is_active_member": true,
     "independence_date": "1905-06-07",
-    "flag": ,
+    "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/no.png",
     "region": "Europe",
     "languages": ["Norwegian", "Sami"],
     "currency": {
@@ -143,7 +143,7 @@
     "population": 54985698,
     "is_active_member": true,
     "independence_date": "1963-12-12",
-    "flag": ,
+    "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/ke.png",
     "region": "Africa",
     "languages": ["Swahili", "English"],
     "currency": {
@@ -160,7 +160,7 @@
     "population": 372295,
     "is_active_member": true,
     "independence_date": "1944-06-17",
-    "flag": ,
+    "flag": "https://raw.githubusercontent.com/s094066/Countries-JSON/main/Milestone%200/assets/is.png",
     "region": "Europe",
     "languages": ["Icelandic"],
     "currency": {
@@ -171,4 +171,5 @@
   }
 
 ]
+
 
